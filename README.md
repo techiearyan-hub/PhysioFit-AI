@@ -29,11 +29,11 @@ It generates personalized weekly diet plans based on user input (name, age, heig
 4. cd client > npm run dev
    WEBSITE
 
-### Dashboard
-![Dashboard](client/src/assets/Screenshot%20(157).png)
+### 
+![Dashboard](physio-fit-ai/client/src/assets/Screenshot%20(157).png)
 
-### Form Page
-![Form](client/src/assets/Screenshot%20(158).png)
+### 
+![Form](physio-fit-ai/client/src/assets/Screenshot%20(158).png)
 
-### Generated Plan
-![Plan](client/src/assets/Screenshot%20(159).png)
+### 
+![Plan](physio-fit-ai/client/src/assets/Screenshot%20(159).png)
